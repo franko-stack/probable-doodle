@@ -1,0 +1,4 @@
+O para commitear directo en main (si tienes permiso y quieres hacerlo así):
+git add README.md
+git commit -m "docs: mejora README"
+git push origin main
